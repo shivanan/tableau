@@ -1,0 +1,11 @@
+{
+    "id":"573881b7-4222-4ee1-b4c8-e7724d3810cc",
+    "author":"eutech",
+    "widgets":[
+        {
+            "id":"tableau",
+            "title":"Tableau",
+            "description":"Embed a widget from Tableau"
+        }
+    ]
+}
